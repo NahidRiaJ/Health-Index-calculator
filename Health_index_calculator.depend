@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689502118 source:c:\users\hp\desktop\nahids program\2.1project\health_index_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
